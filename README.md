@@ -8,20 +8,20 @@ This repository provides the MicroPython library files and example files for Mot
 
 ## Library Files
 
-| File Name |
+| File Path |
 | --- |
-| pca9685.py |
-| motorbit.py |
+| [pca9685.py](pca9685.py) |
+| [motorbit.py](motorbit.py) |
 
 Before using, please upload all the above library files to the development board running MicroPython.
 
 ## Example Files
 
-| File Name | Example Description |
+| File Path | Example Description |
 | --- | --- |
 | [examples/dc_speed/main.py](examples/dc_speed/main.py) | Drive motors on Motorbit M1 ~ M4 ports |
 | [examples/servo/main.py](examples/servo/main.py) | Drive regular servos like SG90 on Motorbit S1 ~ S8 ports |
-| [examples/geek_servo/main.py](examples/geek_servo/main.py) |  Drive regular building block servos on Motorbit S1 ~ S8 ports |
+| [examples/geek_servo/main.py](examples/geek_servo/main.py) |  Drive LEGO geek servos on Motorbit S1 ~ S8 ports |
 
 For details, please refer to the example source code.
 

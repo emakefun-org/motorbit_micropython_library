@@ -6,16 +6,16 @@
 
 ## 库文件
 
-| 文件名 |
+| 文件路径 |
 | --- |
-| pca9685.py |
-| motorbit.py |
+| [pca9685.py](pca9685.py) |
+| [motorbit.py](motorbit.py) |
 
 使用前，请将以上库文件全部上传到运行了MicroPython开发板上。
 
 ## 示例文件
 
-| 文件名 | 示例说明 |
+| 文件路径 | 示例说明 |
 | --- | --- |
 | [examples/dc_speed/main.py](examples/dc_speed/main.py) | Motorbit M1 ~ M4 端口驱动电机 |
 | [examples/servo/main.py](examples/servo/main.py) |  Motorbit S1 ~ S8 端口驱动普通舵机，如SG90 |
